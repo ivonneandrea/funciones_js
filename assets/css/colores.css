@@ -19,3 +19,8 @@ div{
 .amarillo{
     background-color: yellow;
 }
+
+.negro{
+    background-color: white ;
+    border: 5px solid black;
+}
